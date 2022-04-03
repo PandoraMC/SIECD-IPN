@@ -1,3 +1,15 @@
+# Results and base processing files extensions
+*.geojson
+*.csv
+*.feather
+*.crs
+*.tab
+*.DAT
+*.ID
+*.MAP
+*.TAB
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
